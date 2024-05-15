@@ -1,3 +1,3 @@
 # BudgetTracker 
 
-simple app to keep track of expenses
+simple app to keep track of your expenses
