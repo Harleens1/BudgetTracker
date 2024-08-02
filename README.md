@@ -6,7 +6,7 @@ A beautiful website to keep track of your expenses.
 Link to project: https://hsbudgettracker.netlify.app/
 
 
-### Tech used: Astro, Javascript, CSS
+### Tech used: Astro, Javascript, CSS, React, React Router
 
 
 
