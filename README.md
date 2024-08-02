@@ -1,3 +1,12 @@
-# BudgetTracker 
+# Budget Tracker
+A beautiful website to keep track of your expenses. 
 
-simple app to keep track of your expenses
+![title](public/githubImage.png)
+
+Link to project: https://hsbudgettracker.netlify.app/
+
+
+### Tech used: Astro, Javascript, CSS
+
+
+
